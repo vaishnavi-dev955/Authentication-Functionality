@@ -1,0 +1,12 @@
+.heading1 {
+  color: blue;
+  font-size: 28px;
+  font-family: 'Roboto';
+  padding-left: 30px;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.main-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
